@@ -75,5 +75,7 @@
 + [Kurita Lab（広島大学 栗田研）](https://kurita-lab.jp/wordpress/)
 
 
+{% include footer.md %}
+
 ---
 Copyright &copy; 2021 TDU Hidaka Lab all rights reserved. 
