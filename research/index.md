@@ -1,7 +1,7 @@
-[1]: /TDU-AI-Lab/
-[2]: /TDU-AI-Lab/research/
-[3]: /TDU-AI-Lab/activity/
-[4]: /TDU-AI-Lab/news/
+[1]: /
+[2]: /research/
+[3]: /activity/
+[4]: /news/
 [[Home]][1] [[研究紹介]][2] [[活動紹介]][3] [[ニュース一覧]][4]
 
 # 東京電機大学 理工学部 人工知能研究室
@@ -11,9 +11,9 @@
 主な研究テーマや関心のある研究キーワードを紹介します．
 
 
-[5]: /TDU-AI-Lab/research/surgery/
-[6]: /TDU-AI-Lab/research/detection/
-[7]: /TDU-AI-Lab/research/denoising/
+[5]: /research/surgery/
+[6]: /research/detection/
+[7]: /research/denoising/
 
 ## 研究紹介
   + [手術状況・手術行為の自動認識（準備中）][5]

@@ -1,8 +1,9 @@
-[1]: /TDU-AI-Lab/
-[2]: /TDU-AI-Lab/research/
-[3]: /TDU-AI-Lab/activity/
-[4]: /TDU-AI-Lab/news/
+[1]: /
+[2]: /research/
+[3]: /activity/
+[4]: /news/
 [[Home]][1] [[研究紹介]][2] [[活動紹介]][3] [[ニュース一覧]][4]
+
 
 # 東京電機大学 理工学部 人工知能研究室
 
@@ -11,10 +12,10 @@
 主軸となる研究活動以外のさまざまな活動について紹介します．
 
 
-[5]: /TDU-AI-Lab/activity/competitions/
-[6]: /TDU-AI-Lab/activity/jetbot/
-[7]: /TDU-AI-Lab/activity/labai/
-[8]: /TDU-AI-Lab/activity/OC/
+[5]: /activity/competitions/
+[6]: /activity/jetbot/
+[7]: /activity/labai/
+[8]: /activity/OC/
 
 ## 活動紹介
   + [AI技術の競技会・人材育成イベント（賞金付き）への参加][5]
