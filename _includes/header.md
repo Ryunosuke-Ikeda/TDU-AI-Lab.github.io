@@ -1,7 +1,8 @@
-[1]: /
-[2]: /research/
-[3]: /activity/
-[4]: /news/
-[［Home］][1] [［研究紹介］][2] [［活動紹介］][3] [［ニュース一覧］][4]
+
+[hdr1]: /
+[hdr2]: /research/
+[hdr3]: /activity/
+[hdr4]: /news/
+[［Home］][hdr1] [［研究紹介］][hdr2] [［活動紹介］][hdr3] [［ニュース一覧］][hdr4]
 
 ---
