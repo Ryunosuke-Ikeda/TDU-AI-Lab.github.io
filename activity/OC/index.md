@@ -1,8 +1,5 @@
-[1]: /
-[2]: /research/
-[3]: /activity/
-[4]: /news/
-[［Home］][1] [［研究紹介］][2] [［活動紹介］][3] [［ニュース一覧］][4]
+{% include header.md %} <!-- _includes内のheader.mdをインクルード -->
+
 
 # TDU AI Lab 活動紹介
 
@@ -11,5 +8,4 @@
 （準備中）
 
 
----
-Copyright &copy; 2021 TDU Hidaka Lab all rights reserved. 
+{% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->

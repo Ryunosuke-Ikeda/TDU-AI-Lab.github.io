@@ -1,8 +1,5 @@
-[1]: /
-[2]: /research/
-[3]: /activity/
-[4]: /news/
-[［Home］][1] [［研究紹介］][2] [［活動紹介］][3] [［ニュース一覧］][4]
+{% include header.md %} <!-- _includes内のheader.mdをインクルード -->
+
 
 # 東京電機大学 理工学部 人工知能研究室
 
@@ -28,5 +25,5 @@
   | 2020/03/16 | 岸正太君（学部3年次）の3年次早期卒業が認められました．またその優秀な学業成績に伴い，東京電機大学 学長賞を受賞しました． |
   | 2020/03/06 | 岸正太君（学部3年次）が[令和2年度JEES・ソフトバンクAI人材育成奨学金（ソフトバンクAI人材育成スカラーシップ）](https://www.softbank.jp/corp/news/press/sbkk/2019/20191015_02/)を獲得しました．|
 
----
-Copyright &copy; 2021 TDU Hidaka Lab all rights reserved. 
+
+{% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->
