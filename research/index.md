@@ -7,17 +7,22 @@
 
 主な研究テーマや関心のある研究キーワードを紹介します．
 
-
-[5]: /research/surgery/
-[6]: /research/detection/
-[7]: /research/denoising/
+[surgery]: /research/surgery/
+[detection]: /research/detection/
+[denoising]: /research/denoising/
 
 ## 研究紹介
-  + [手術状況・手術行為の自動認識（準備中）][5]
+  + 手術状況・手術行為の自動認識（準備中）
 
-  + [高難度物体検出][6]
+  + [高難度物体検出][detection]
 
-  + [電子顕微鏡画像のノイズ除去・鮮明化（準備中）][7]
+  + 電子顕微鏡画像のノイズ除去・鮮明化（準備中）
+
+<!--
+  + [手術状況・手術行為の自動認識（準備中）][surgery]
+
+  + [電子顕微鏡画像のノイズ除去・鮮明化（準備中）][denoising]
+-->
 
 ## 関係・関心がある深層学習キーワード
   + 画像認識系：
