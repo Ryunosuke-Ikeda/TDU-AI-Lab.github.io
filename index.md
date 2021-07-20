@@ -3,7 +3,7 @@
 
 # 東京電機大学 理工学部 人工知能研究室
 
-<meta name="description" content="電大（理工学部）のAI研究室です．深層学習（Deep Learning）による画像認識・画像生成をはじめとするAI技術の研究を行っています．音声認識・音声生成・自然言語処理などにも手を伸ばしています．">
+<meta name="description" content="電大のAI研究室（理工学部の方）です．深層学習（Deep Learning）による画像認識・画像生成をはじめとするAI技術の研究を行っています．音声認識・音声生成・自然言語処理などにも手を伸ばしています．">
 
 <span style="color:#FF0000;">深層学習（Deep Learning）</span>による画像認識・画像生成をはじめとする<span style="color:#FF0000;">AI技術</span>の研究を行っています．
 
