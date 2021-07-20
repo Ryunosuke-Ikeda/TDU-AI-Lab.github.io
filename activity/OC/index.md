@@ -5,9 +5,9 @@
 
 ## オープンキャンパス研究室公開
 
-![fig1](https://github.com/TDU-AI-Lab/TDU-AI-Lab.github.io/blob/main/_images/oc2021a.jpg)
+![fig1](https://www.cse.dendai.ac.jp/faculty/5divisions/ru/course/mi/hidaka/github_pages/oc2021a.jpg)
 
-![fig2](https://github.com/TDU-AI-Lab/TDU-AI-Lab.github.io/blob/main/_images/oc2021b.jpg)
+![fig2](https://www.cse.dendai.ac.jp/faculty/5divisions/ru/course/mi/hidaka/github_pages/oc2021b.jpg)
 
 （準備中）
 
