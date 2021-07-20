@@ -20,13 +20,10 @@
   + 電子顕微鏡画像のノイズ除去・鮮明化（準備中）
 
 <!--
-  + [手術状況・手術行為の自動認識（準備中）][surgery]
+  + [手術状況・手術行為の自動認識][surgery]
 
-  + [電子顕微鏡画像のノイズ除去・鮮明化（準備中）][denoising]
-
+  + [電子顕微鏡画像のノイズ除去・鮮明化][denoising]
 -->
-
-<br>
 
 ## 関係・関心がある研究キーワード
 
@@ -92,8 +89,7 @@
     + Triplet loss
   + 物体検出系
     + Hungarian Loss (DETR)
-+ 構造最適化
-  + NAS (Network Architecture Search)
++ 構造最適化 (Network Architecture Search: NAS)
 + 敵対的サンプル生成／敵対的攻撃
 + テクスチャバイアス
 
