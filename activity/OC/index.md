@@ -5,7 +5,7 @@
 
 ## オープンキャンパス研究室公開
 
-理工学部（埼玉鳩山キャンパス）では毎年6月から8月にかけて3～4回のオープンキャンパスを開催しています．
+理工学部（埼玉鳩山キャンパス）では毎年6月中旬から8月上旬にかけて3～4回ほどオープンキャンパスを開催しています．
 
 人工知能研究室もそのうち1～2回で研究室公開を行っています．
 
@@ -31,12 +31,20 @@
 ![fig2](https://www.cse.dendai.ac.jp/faculty/5divisions/ru/course/mi/hidaka/github_pages/oc2021b_trim.jpg)
 Openposeによる人体検出デモ．
 
-### 2020年度のオープンキャンパス
+### 過去のオープンキャンパス
 
-コロナ感染症の流行に伴い，オンライン上のみでのオープンキャンパス開催となりました．
+  + 2020年度
+    + コロナ感染症の流行に伴い，[電大Youtubeキャンパス](https://www.youtube.com/channel/UCKnPsmCuIyXioKofQa217JQ) が開設され，オンライン上のみでのオープンキャンパス開催となりました．
+    + コロナ禍中で学生は研究室に来られず，また教員は不慣れなオンライン講義の準備で寝る間もないほど忙しさ極まる状態だったため，人工知能研究室としては特にコンテンツを用意することができず，残念でした．
 
-[電大Youtubeキャンパス](https://www.youtube.com/channel/UCKnPsmCuIyXioKofQa217JQ)
+  + 2019年度
+    + この年は6月に1回，8月に2回の開催でした．
+    + 8/3(土)に模擬講義「深層学習とAI 技術の最新動向」を行いました．
 
+  + 2018年度
+    + この年は6月に1回，7月に1回，8月に2回の開催でした．
+    + 8/4(土)に研究室公開，8/5(日)にワークショップ「深層学習による画像認識」を行いました．
+        ![fig3](https://www.cse.dendai.ac.jp/faculty/5divisions/ru/course/mi/hidaka/github_pages/oc2018ws_small.jpg)
 
-
+<br><br>
 {% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->
