@@ -4,3 +4,7 @@ title: TDU AI Lab
 description: 東京電機大学 理工学部 人工知能研究室 （日高研）
 plugins:
  - jekyll-sitemap
+output:
+  html_document:
+    includes: 
+      in_header: ga_script.html
