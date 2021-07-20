@@ -1,2 +1,2 @@
 
-[TDU AI Lab](TDU-AI-Lab.github.io)
+[Go TDU AI Lab (Github Pages)](https://tdu-ai-lab.github.io/)
