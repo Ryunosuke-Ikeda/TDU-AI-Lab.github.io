@@ -57,6 +57,9 @@
   + GAN系
     + Pix2Pix
     + Cycle GAN
++ 時系列・可変長系
+  + RNN
+  + LSTM
 + 言語処理系
   + Transformer
   + BERT
