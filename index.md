@@ -85,6 +85,10 @@
 {% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->
 
 
-| 修士2年次 | 長野 紘士朗<br>岸 正太 |
-| 修士1年次 | [池田 柳之介](https://twitter.com/ImR0305)<br>鈴木 希望 |
-| 学部4年次 | 4名 |
+<!--
+| 指導教員 | 准教授 | [日高 章理](https://www.cse.dendai.ac.jp/faculty/5divisions/ru/course/mi/hidaka/prof.html) |
+| 修士2年次 | 2名 | 長野 紘士朗<br>岸 正太 |
+| 修士1年次 | 2名 | [池田 柳之介](https://twitter.com/ImR0305)<br>鈴木 希望 |
+| 学部4年次 | 4名 |  |
+-->
+
