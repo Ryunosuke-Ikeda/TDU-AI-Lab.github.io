@@ -84,3 +84,7 @@
 
 {% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->
 
+
+| 修士2年次 | 長野 紘士朗<br>岸 正太 |
+| 修士1年次 | [池田 柳之介](https://twitter.com/ImR0305)<br>鈴木 希望 |
+| 学部4年次 | 4名 |
