@@ -5,7 +5,19 @@
 
 ## 研究室紹介用チャットAI製作
 
-（準備中）
+2021年オープンキャンパスに向け，音声認識対話AI"Salieri"の開発を行いました．
+
+
+<img src="https://user-images.githubusercontent.com/63311737/127312525-ae452dd9-9db0-416d-adf2-72f560af58c6.png" width="300">
+
+Salieriは画像認識によって人を検出すると自動的に対話待機状態に移行し，話しかけることによって，東京電機大や人工知能研究室の説明を行います．
+
+他にもAIと雑談する機能や指定した人物の顔画像を生成する機能を搭載しています．
+
+<img src="https://user-images.githubusercontent.com/63311737/127320409-4c0f7e60-61e2-43ac-a328-69385affe7d0.png" width="800">
+
+
+### デモ動画は[こちらから](https://youtu.be/UJvwLCZXqPE)
 
 
 {% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->
