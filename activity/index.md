@@ -7,7 +7,6 @@
 
 主軸となる研究活動以外のさまざまな活動について紹介します．
 
-
 [competition]: /activity/competitions/
 [jetbot]: /activity/jetbot/
 [labai]: /activity/labai/
@@ -18,7 +17,7 @@
 
   + Jetbot製作（準備中）
 
-  + 研究室紹介用チャットAI製作（準備中）
+  + [研究室紹介用チャットAI製作（準備中）][labai]
 
   + [オープンキャンパス研究室公開][oc]
 
