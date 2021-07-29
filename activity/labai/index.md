@@ -20,4 +20,7 @@ Salieriは画像認識によって人を検出すると自動的に対話待機�
 デモ動画は[こちらから](https://youtu.be/UJvwLCZXqPE)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJvwLCZXqPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 {% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->
