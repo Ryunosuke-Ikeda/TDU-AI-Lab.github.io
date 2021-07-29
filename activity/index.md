@@ -15,17 +15,11 @@
 ## 活動紹介
   + [AI技術の競技会・人材育成イベント（賞金付き）への参加][competition]
 
-  + Jetbot製作（準備中）
+  + [Jetbot製作][jetbot]
 
   + [研究室紹介用チャットAI製作][labai]
 
   + [オープンキャンパス研究室公開][oc]
-
-<!-- 
-  + [Jetbot製作][jetbot]
-
-  + [研究室紹介用チャットAI製作（準備中）][labai]
--->
 
 
 {% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->
