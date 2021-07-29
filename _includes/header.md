@@ -1,4 +1,7 @@
 
+[_mem_20nagano]: https://admiring-visvesvaraya-217551.netlify.app/
+[_mem_21ikeda]: https://twitter.com/ImR0305
+
 [_h1]: /
 [_h2]: /research/
 [_h3]: /activity/
