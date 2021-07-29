@@ -10,24 +10,15 @@
 
 ### 2021年度のニュース
 
-{% include news2021.md %}
+{% include news2021.md %} <!-- _includes内のmdファイルをインクルード -->
 
 ### 2020年度のニュース
 
-{% include news2020.md %}
+{% include news2020.md %} <!-- _includes内のmdファイルをインクルード -->
 
 ### 2019年度のニュース
 
-{% include news2019.md %}
-
-
-
-
-{% include news2021.md %}
-{% include news2020.md %}
-{% include news2019.md %}
-
-
+{% include news2019.md %} <!-- _includes内のmdファイルをインクルード -->
 
 
 {% include footer.md %} <!-- _includes内のfooter.mdをインクルード -->

@@ -68,9 +68,9 @@
 
 ## ニュース
 
-{% include news2021.md %}
-{% include news2020.md %}
-{% include news2019.md %}
+{% include news2021.md %} <!-- _includes内のmdファイルをインクルード -->
+{% include news2020.md %} <!-- _includes内のmdファイルをインクルード -->
+{% include news2019.md %} <!-- _includes内のmdファイルをインクルード -->
 
 ## 関連リンク
 + [Kurita Lab（広島大学 栗田研）](https://kurita-lab.jp/wordpress/)
