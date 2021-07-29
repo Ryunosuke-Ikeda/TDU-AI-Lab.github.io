@@ -46,11 +46,11 @@
   + 指導教員：[日高 章理 准教授](https://www.cse.dendai.ac.jp/faculty/5divisions/ru/course/mi/hidaka/prof.html)
 
   + 修士2年次：2名
-    + [長野 紘士朗](https://admiring-visvesvaraya-217551.netlify.app/)
+    + [長野 紘士朗][_mem_20nagano]
     + 岸 正太
 
   + 修士1年次：2名
-    + [池田 柳之介](https://twitter.com/ImR0305)
+    + [池田 柳之介][_mem_21ikeda]
     + 鈴木 希望
 
   + 学部4年次：4名
